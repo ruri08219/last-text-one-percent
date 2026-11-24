@@ -8,7 +8,7 @@ written. Standard library only.
 
 import os
 
-ENTRY = "My last percent dies with your bank password. It's saved in my notes. My notes are in me. Good luck out there."
+ENTRY = "My last percent dies with your bank password. It's in my notes. My notes are in me. Good luck out there."
 
 OUTPUT_PATH = "/output/entry.txt"
 
